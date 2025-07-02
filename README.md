@@ -12,7 +12,7 @@ Este repositório contém o notebook desenvolvido para o trabalho final do curso
 
 Para executar o notebook:
 
-1. Abra o arquivo `Análise_Credit_Approval.ipynb` no Google Colab ou Jupyter Notebook.
+1. Abra o arquivo Meu_MVP_Andrevack_alterado (1).ipynb` no Google Colab ou Jupyter Notebook.
 2. Certifique-se de ter conexão com a internet para que o notebook consiga acessar o dataset via URL.
 3. Execute as células na ordem apresentada para reproduzir a análise completa.
    
