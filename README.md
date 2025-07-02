@@ -5,7 +5,7 @@ Este repositório contém o notebook desenvolvido para o trabalho final do curso
 
 ## Conteúdo do Repositório
 
-- `Análise_Credit_Approval.ipynb`: Notebook em Python com o código completo para limpeza, análise e visualização dos dados.
+- Meu_MVP_Andrevack_alterado (1).ipynb: Notebook em Python com o código completo para limpeza, análise e visualização dos dados.
 - `crx.data`: Dataset original utilizado, hospedado neste repositório e carregado diretamente via URL no notebook.
 
 ## Como Executar
